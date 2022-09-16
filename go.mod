@@ -1,4 +1,4 @@
-module github.com/abbot/go-http-auth
+module github.com/IronMan0404/go-http-auth
 
 go 1.14
 
